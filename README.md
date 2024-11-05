@@ -124,7 +124,7 @@ Feel free to submit issues and pull requests! All contributions are welcome :)
 
 ## Credits
 
-Originally created by Tibério in Brazil.
+Developed by Tibério in Brazil.
 
 ## License
 

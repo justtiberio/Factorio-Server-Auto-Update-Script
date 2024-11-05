@@ -33,7 +33,7 @@ This script solves that problem by:
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/factorio-auto-update/main/auto-update.sh
+wget https://raw.githubusercontent.com/justtiberio/Factorio-Server-Auto-Update-Script/refs/heads/main/factorio-server-updater.sh
 ```
 
 2. Make it executable:
